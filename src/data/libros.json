@@ -1,0 +1,123 @@
+{
+    "status" : "ok",
+    "libros": [
+        {
+            "nombre" : "Cien años de soledad",
+            "author": "Gabriel García Márquez",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/61/8d/618d227e8967274cd9589a549adff52d.jpg",
+            "pdf" : "Cien anos de soledad (Edicion ilustrada) - Gabriel Garcia Marquez.pdf"
+        },
+        {
+            "nombre" : "El señor de los anillos (Trilogía)",
+            "author": "J. R. R. Tolkien",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/54/49/5449ba87a3e457a22dd6d0972b5c261e.jpg"
+        },
+        {
+            "nombre": "1984",
+            "author": "George Orwell",
+            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/b0/39/b039af065268818b7bd3b0e016f8db65.jpg",
+            "pdf": "orwell_george_1984.pdf"
+        },
+        {
+            "nombre" : "Un mundo feliz",
+            "author": "Aldous Huxley",
+            "foto" : "https://images.cdn1.buscalibre.com/fit-in/360x360/c1/8c/c18cdeb80fa6f9a212a1cc5639e94c6d.jpg",
+            "pdf" : "Un-mundo-feliz-Huxley.pdf"
+        },
+        {
+            "nombre" : "Orgullo y prejuicio",
+            "author": "Jane Austen",
+            "foto" : "https://i.pinimg.com/originals/2e/f9/91/2ef991edd4d4039895031544ed0c561a.png"
+        },
+        {
+            "nombre" : "Crimen y castigo",
+            "author": "Fiódor Dostoyevski",
+            "foto" : "https://resumen.club/wp-content/uploads/2022/04/crimen-y-castigo-resumen-y-personajes-360x500.jpg"
+        },
+        {
+            "nombre" : "Lolita",
+            "author": "Vladimir Nabokov",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/0f/b5/0fb582c596c8701fe79db731e07e7524.jpg"
+        },
+        {
+            "nombre" : "Ulises",
+            "author": "James Joyce",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/b8/e8/b8e89e23530ae62c5cb91a62dc69ac0c.jpg"
+        },
+        {
+            "nombre" : "Madame Bovary",
+            "author": "Gustave Flaubert",
+            "foto" : "https://images.cdn2.buscalibre.com/fit-in/360x360/19/32/1932823e770385461223bc24d4c039b6.jpg"
+        },
+        {
+            "nombre" : "En busca del tiempo perdido",
+            "author": "Marcel Proust",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/da/2e/da2ef30eaa323ac831fb9375112914a8.jpg"
+        },
+        {
+            "nombre" : "Don Quijote de la Mancha",
+            "author": "Miguel de Cervantes.",
+            "foto" : "https://www.libreriasinopsis.com/imagenes/9788469/978846980757.JPG"
+        },
+        {
+            "nombre" : "El retrato de Dorian Gray",
+            "author": "Oscar Wilde",
+            "foto" : "https://images.cdn2.buscalibre.com/fit-in/360x360/91/18/9118645bef1e527a3e1f14e7187ac89e.jpg"
+        },
+        {
+            "nombre" : "Ana Karenina",
+            "author": "León Tolstói",
+            "foto" : "https://www.elsotano.com/imagenes/9786071/978607141493.JPG"
+        },
+        {
+            "nombre" : "El Principito",
+            "author": "Antoine de Saint-Exupéry.",
+            "foto" : "https://i.pinimg.com/originals/9a/a4/b1/9aa4b16195770cbb27ef3b2447d11afc.jpg",
+            "pdf" : "el principito.pdf"
+        },
+        {
+            "nombre" : "El proceso",
+            "author": "Franz Kafka",
+            "foto" : "https://images.cdn1.buscalibre.com/fit-in/360x360/86/31/8631f67503db12c77b8dc8b50665c705.jpg"
+        },
+        {
+            "nombre" : "El ruido y la furia",
+            "author": "William Faulkner",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/45/f7/45f783e74d96b443913ce98f57287148.jpg"
+        },
+        {
+            "nombre" : "Hamlet",
+            "author": "William Shakespeare",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/83/e6/83e6ea9ca39310715d3b2b20be3dcd2f.jpg"
+        },
+        {
+            "nombre" : "Lo que el viento se llevó",
+            "author": "Margaret Mitchell.",
+            "foto" : "https://images.cdn2.buscalibre.com/fit-in/360x360/0d/51/0d513cf67ac3461fd0da21c25efb1a5a.jpg"
+        },
+        {
+            "nombre" : "La Odisea",
+            "author": "Homero",
+            "foto" : "https://www.loqueleo.com/co/uploads/2021/01/resized/200_la-odisea-1.JPG"
+        },
+
+        {
+            "nombre" : "Las uvas de la ira",
+            "author": "John Steinbeck.",
+            "foto" : "https://images.cdn3.buscalibre.com/fit-in/360x360/d5/cf/d5cf867e1bbaef171c4f0b4243351aff.jpg"
+        },
+        {
+            "nombre" : "El guardián entre el centeno",
+            "author": "J. D. Salinger.",
+            "foto" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7IwVsVdjx6tH8vjHqgc3hta4RP3J9HmN4cCczSK9sCJYdtiZS"
+        },
+        {
+            "nombre" : "Cumbres borrascosas",
+            "author": "Emily Brontë.",
+            "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1fnGmg2Im9AQNM1x0exz7RC68OMRwpzYQE8wa853_EVGI3Zt"
+        }
+
+
+    ]
+
+}
